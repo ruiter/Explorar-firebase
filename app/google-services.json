@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "873722964463",
+    "firebase_url": "https://explorar-firebase.firebaseio.com",
+    "project_id": "explorar-firebase",
+    "storage_bucket": "explorar-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873722964463:android:8669bb1511d1954e",
+        "android_client_info": {
+          "package_name": "com.example.ruiter.explorarfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873722964463-jts1pqj1uken1opo99dufrqi45mst20j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLgE_BEufIpEIsTnf4C4aaWpY4ZLmIlh8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
